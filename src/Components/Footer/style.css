@@ -1,0 +1,14 @@
+.footer {
+    background-color: #282c34;
+    flex-shrink: 0;
+    text-align: center;
+    color: white;
+  
+  
+  }
+  .footer a{
+      text-decoration: none;
+      color: red;
+      font-size: 40px;
+     
+  }
